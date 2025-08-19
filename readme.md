@@ -66,11 +66,7 @@ The project aims to:
 
 ### Video Demonstration
 Here is a **video walkthrough of the home page**:
-
-<video width="100%" controls>
-  <source src="./assets/homepage-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](./assets/homepage-demo.mp4)
 
 ---
 
