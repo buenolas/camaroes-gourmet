@@ -2,7 +2,7 @@
 services:
   camaroesapp:
     container_name: camaroesapp
-    image: buenolas/camaroesapp:1.0.4
+    image: buenolas/camaroesapp:1.1.1
     build: .
     ports:
       - "8000:8000"
