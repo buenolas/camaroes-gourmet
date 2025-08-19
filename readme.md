@@ -66,6 +66,7 @@ The project aims to:
 
 ### Video Demonstration
 Here is a **video walkthrough of the home page**:
+
 ![Demo](./assets/homepage-demo.mp4)
 
 ---
